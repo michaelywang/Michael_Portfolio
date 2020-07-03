@@ -7,6 +7,8 @@ Created an online course to job matching system by parsing over 20,000 web scrap
 # [Project 2: Webscraping Coursera](https://github.com/michaelywang/coursera-web-scraping)
 Built a webcrawler using Scrapy framework to analyze data from 3,600 online courses and identify key factors in enrollment. Discovered potential areas for Coursera to expand given market opportunities, course offerings and student demand.
 
+![](https://github.com/michaelywang/Portfolio/blob/master/images/Coursera%20Partners.png)
+
 # [Project 3: Housing Price Prediction](https://github.com/michaelywang/Ames_House_Prices) 
 Predicted housing prices in Ames, Iowa based on historical data. Built a Python pre-processing module to clean and merge data in preparation for model testing, expanded upon given features to practice feature engineering with external market forces (VIX, CPI) to improve prediction accuracy. Used cross validation techniques to tune hyperparameters and compared our penalized regression models (Lasso, Ridge, Elastic Net) for the best result.    
 
