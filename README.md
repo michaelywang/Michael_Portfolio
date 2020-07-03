@@ -1,4 +1,4 @@
-# Portfolio
+# Michael Wang - Portfolio
 
 # [Project 1: Course to Job Matching System](https://github.com/michaelywang/NYCDSA-Capstone-Project)
 Created an online course to job matching system by parsing over 20,000 web scraped job postings using NLP to identify professional skills and match them to over 4,500 courses. Used unsupervised learning to cluster jobs by descriptions (PCA, K-Means) and NLP techniques (TF-IDF, Word2Vec) to parse job and course descriptions and match the two on cosine similarity using the Google News corpus. 
